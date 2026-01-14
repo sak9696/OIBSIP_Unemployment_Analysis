@@ -81,7 +81,7 @@ It highlights practical skills in **Python, data visualization, and exploratory 
 ---
 
 ## 🙋‍♀️ Author
-**Sakashi Jadhav**  
+**Sakshi Jadhav**  
 Third Year Engineering Student | Data Analyst Intern  
 
 ---
